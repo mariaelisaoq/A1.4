@@ -20,6 +20,6 @@ La base de datos cuenta con la siguiente información:
 
 Este proyecto incluye los siguientes documentos:
 
-- [Reporte en formato ipynb]()
-- [Reporte en formato html]()
+- [Reporte en formato ipynb](A1.4.ipynb)
+- [Reporte en formato html](A1.4.html)
 - [Base de datos](A1.4VinoTinto.csv)
