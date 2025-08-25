@@ -18,4 +18,8 @@ La base de datos cuenta con la siguiente información:
 - “alcohol”. Volúmen percentil de alcohol en el vino.
 - “calidad”. Mediana de la calidad otorgada por al menos tres catadores, en escala del 0 (muy malo) al 10 (excelente).
 
-  
+Este proyecto incluye los siguientes documentos:
+
+- [Reporte en formato ipynb]()
+- [Reporte en formato html]()
+- [Base de datos](A1.4VinoTinto.csv)
